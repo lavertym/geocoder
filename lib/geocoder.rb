@@ -57,7 +57,7 @@ module Geocoder
   # All street address lookups, default first.
   #
   def street_lookups
-    [:google, :google_premier, :yahoo, :bing, :geocoder_ca, :yandex, :nominatim, :mapquest, :test]
+    [:google, :google_premier, :yahoo, :bing, :geocoder_ca, :yandex, :nominatim, :mapquest, :mapquest_licensed, :test]
   end
 
   ##

@@ -357,6 +357,17 @@ Documentation:: http://www.mapquestapi.com/geocoding/
 Terms of Service:: http://info.mapquest.com/terms-of-use/
 Limitations:: ?
 
+==== Mapquest (Licensed) (<tt>:mapquest_licensed</tt>)
+
+API key:: required
+Quota:: 5000/day (unless enterprise)
+Region:: world
+SSL support:: no
+Languages:: English
+Documentation:: http://www.mapquestapi.com/geocoding/
+Terms of Service:: http://info.mapquest.com/terms-of-use/
+Limitations:: ?
+
 ==== FreeGeoIP
 
 API key:: none
